@@ -1,1 +1,1 @@
-shell permissions
+This is the shell redirections folder
